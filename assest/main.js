@@ -133,3 +133,4 @@ function removeFromLS(id) {
   localStorage.setItem('clothes', JSON.stringify(clothes))
   });
 }
+
